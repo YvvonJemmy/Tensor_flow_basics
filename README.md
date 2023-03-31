@@ -7,5 +7,5 @@ multiplications, divitions, matrix multiplication and reduced_sum.
 ##
 There is a section of advanced operations. This section contains basics like indexing a tensor, reshaping
 and use of gradient tape to get the gradient.
-####required
+## required
 To run this notebook, you need to have installed tensorflow.
